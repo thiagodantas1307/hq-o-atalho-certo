@@ -75,6 +75,45 @@ ORGANIZAÇÃO INICIAL DO PROJETO
 
 O trabalho será desenvolvido em etapas de planejamento, revisão do roteiro, produção das imagens, montagem dos quadrinhos e revisão final.
 
-As tarefas serão acompanhadas em um quadro Kanban, com as colunas “A fazer”, “Em andamento” e “Concluído”. O grupo realizará ciclos curtos de trabalho, com definição de entregas e revisão dos resultados.
+As tarefas serão acompanhadas em um quadro Kanban, com as colunas “Pendência”, “Em andamento” e “Feito”. O grupo realizará ciclos curtos de trabalho, com definição de entregas e revisão dos resultados.
 
 Este repositório será utilizado para reunir os materiais e registrar as versões produzidas ao longo do desenvolvimento.
+
+PLANEJAMENTO DO PROJETO
+
+O planejamento do projeto “O Atalho Certo” foi realizado em equipe, utilizando princípios da metodologia Scrum. As tarefas foram organizadas em um Product Backlog e acompanhadas por meio de um quadro Kanban no GitHub Projects.
+
+PRODUCT BACKLOG
+
+O Product Backlog é composto pelas Issues PB01 a PB13, que representam as tarefas necessárias para o desenvolvimento do projeto.
+
+Link do Product Backlog:
+https://github.com/thiagodantas1307/hq-o-atalho-certo/issues
+
+SPRINT 1
+
+Duração: 1 semana.
+
+Período: 12 de outubro a 18 de outubro de 2026.
+
+Objetivo da Sprint 1: consolidar o planejamento narrativo e visual do projeto, preparando os elementos necessários para iniciar a produção das imagens.
+
+Tarefas selecionadas para a primeira Sprint:
+
+- PB01 — Revisar o objetivo e o escopo do projeto.
+- PB02 — Elaborar e validar o roteiro das dez cenas.
+- PB03 — Definir o padrão visual dos personagens.
+- PB04 — Planejar os prompts das imagens.
+
+As demais tarefas permanecem no Product Backlog para serem desenvolvidas nas etapas seguintes do projeto.
+
+QUADRO KANBAN
+
+O acompanhamento das tarefas é realizado por meio do GitHub Projects, utilizando as colunas:
+
+- Pendência
+- Em andamento
+- Feito
+
+Link do quadro Kanban:
+https://github.com/users/thiagodantas1307/projects/1/views/1
