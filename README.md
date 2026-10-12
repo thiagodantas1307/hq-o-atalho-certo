@@ -120,3 +120,6 @@ O acompanhamento das tarefas é realizado por meio do GitHub Projects, utilizand
 
 Link do quadro Kanban:
 https://github.com/users/thiagodantas1307/projects/1/views/1
+
+Link do Kanban – Sprint 1:
+https://github.com/users/thiagodantas1307/projects/1/views/3
