@@ -107,6 +107,9 @@ Tarefas selecionadas para a primeira Sprint:
 
 As demais tarefas permanecem no Product Backlog para serem desenvolvidas nas etapas seguintes do projeto.
 
+Link do Sprint Backlog:
+https://github.com/users/thiagodantas1307/projects/1/views/2
+
 QUADRO KANBAN
 
 O acompanhamento das tarefas é realizado por meio do GitHub Projects, utilizando as colunas:
