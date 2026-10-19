@@ -94,7 +94,7 @@ SPRINT 1
 
 Duração: 1 semana.
 
-Período: 12 de outubro a 18 de outubro de 2026.
+Período: 29 de setembro a 05 de outubro de 2026.
 
 Objetivo da Sprint 1: consolidar o planejamento narrativo e visual do projeto, preparando os elementos necessários para iniciar a produção das imagens.
 
@@ -123,3 +123,64 @@ https://github.com/users/thiagodantas1307/projects/1/views/1
 
 Link do Kanban – Sprint 1:
 https://github.com/users/thiagodantas1307/projects/1/views/3
+
+SPRINT 2
+
+Duração: 1 semana.
+
+Período: 06 de outubro a 12 de outubro de 2026.
+
+Objetivo da Sprint 2: produzir e revisar as imagens das dez cenas, conferir os cálculos e o conteúdo de Física e montar a história em quadrinhos “O Atalho Certo”.
+
+Tarefas selecionadas para a segunda Sprint:
+
+- PB05 — Gerar as imagens das dez cenas.
+- PB06 — Revisar as imagens geradas.
+- PB07 — Conferir os cálculos e o conteúdo de Física.
+- PB08 — Montar a história em quadrinhos.
+
+As quatro tarefas previstas para a Sprint 2 foram concluídas e registradas como Done no quadro Kanban do GitHub Projects.
+
+Links do projeto:
+
+- Repositório principal: https://github.com/thiagodantas1307/hq-o-atalho-certo
+- Pasta CENAS — conteúdo visual da HQ: https://github.com/thiagodantas1307/hq-o-atalho-certo/tree/main/CENAS
+- Product Backlog / Issues: https://github.com/thiagodantas1307/hq-o-atalho-certo/issues
+- Sprint Backlog — Sprint 2: https://github.com/users/thiagodantas1307/projects/1/views/4
+- Quadro Kanban: https://github.com/users/thiagodantas1307/projects/1/views/1
+- Kanban — Sprint 2: https://github.com/users/thiagodantas1307/projects/1/views/5
+
+  SPRINT 3
+
+Duração: 1 semana.
+
+Período: 13 de outubro a 19 de outubro de 2026.
+
+Objetivo da Sprint 3: concluir e revisar o projeto “O Atalho Certo”, realizando os ajustes finais da história em quadrinhos, validando a mensagem sobre o uso responsável da inteligência artificial, organizando os arquivos no GitHub, atualizando a documentação e preparando o material para a entrega final.
+
+Tarefas selecionadas para a terceira Sprint:
+
+- PB09 — Revisar os textos e a legibilidade das cenas da HQ. (Responsável: Stefany Batista Abreu)
+- PB10 — Validar a mensagem sobre o uso responsável da inteligência artificial. (Responsável: Tatiele Dos Reis)
+- PB11 — Organizar e conferir os arquivos finais no GitHub. (Responsável: Thiago Araújo Dantas)
+- PB12 — Atualizar o README com as informações finais e a documentação do projeto. (Responsável: Gustavo de Holanda Vieira)
+- PB13 — Realizar a revisão final e preparar o material para a entrega. (Responsável: Tiago Araújo da Silva)
+
+As cinco tarefas foram selecionadas do Product Backlog para compor o Sprint Backlog da Sprint 3. Nesta etapa final, o grupo terá como foco a revisão, a organização, a documentação e a preparação do projeto para a entrega.
+
+Ferramentas de acompanhamento:
+
+O acompanhamento das tarefas será realizado por meio do GitHub Projects, utilizando o quadro Kanban com as colunas:
+
+- Pendência
+- Em andamento
+- Feito
+
+Links do projeto:
+
+- Repositório principal: https://github.com/thiagodantas1307/hq-o-atalho-certo
+- Pasta CENAS — conteúdo visual da HQ: https://github.com/thiagodantas1307/hq-o-atalho-certo/tree/main/CENAS
+- Product Backlog / Issues: https://github.com/thiagodantas1307/hq-o-atalho-certo/issues
+- Sprint Backlog — Sprint 3: https://github.com/users/thiagodantas1307/projects/1/views/6
+- Quadro Kanban: https://github.com/users/thiagodantas1307/projects/1/views/1
+- Kanban — Sprint 3: https://github.com/users/thiagodantas1307/projects/1/views/7
