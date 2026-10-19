@@ -179,8 +179,10 @@ O acompanhamento das tarefas será realizado por meio do GitHub Projects, utiliz
 Links do projeto:
 
 - Repositório principal: https://github.com/thiagodantas1307/hq-o-atalho-certo
+- HQ finalizada - https://github.com/thiagodantas1307/hq-o-atalho-certo/blob/main/HQ%20final%20ver.1.0%20.pdf
 - Pasta CENAS — conteúdo visual da HQ: https://github.com/thiagodantas1307/hq-o-atalho-certo/tree/main/CENAS
 - Product Backlog / Issues: https://github.com/thiagodantas1307/hq-o-atalho-certo/issues
-- Sprint Backlog — Sprint 3: https://github.com/users/thiagodantas1307/projects/1/views/6
+-  Sprint Backlog — Sprint 3: https://github.com/thiagodantas1307/hq-o-atalho-certo/tree/main/Documentos%20Sprint
 - Quadro Kanban: https://github.com/users/thiagodantas1307/projects/1/views/1
 - Kanban — Sprint 3: https://github.com/users/thiagodantas1307/projects/1/views/7
+- Roteiro: https://github.com/thiagodantas1307/hq-o-atalho-certo/blob/main/ROTEIRO.docx
